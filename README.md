@@ -52,7 +52,7 @@ Copiar código
 
 ## Capturas de Pantalla
 
-![Captura de pantalla](screenshot.png)
+![Captura de pantalla](Captura.png)
 
 ## Contribución
 
